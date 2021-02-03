@@ -1,0 +1,16 @@
+
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "commonjs",
+    "sourceMap": true,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "lib": ["ES2018", "ESNext.AsyncIterable"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "skipLibCheck": true,
+    "noImplicitReturns": true
+  }
+}
